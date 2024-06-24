@@ -1,0 +1,32 @@
+{
+  "resources/css/admin.css": {
+    "file": "assets/admin-9c70a151.css",
+    "isEntry": true,
+    "src": "resources/css/admin.css"
+  },
+  "resources/css/jquery.toast.min.css": {
+    "file": "assets/jquery.toast.min-a8ab1bcc.css",
+    "isEntry": true,
+    "src": "resources/css/jquery.toast.min.css"
+  },
+  "resources/css/main.css": {
+    "file": "assets/main-f09c9e11.css",
+    "isEntry": true,
+    "src": "resources/css/main.css"
+  },
+  "resources/js/admin.js": {
+    "file": "assets/admin-21a369fc.js",
+    "isEntry": true,
+    "src": "resources/js/admin.js"
+  },
+  "resources/js/jquery.toast.min.js": {
+    "file": "assets/jquery.toast.min-10c76ba5.js",
+    "isEntry": true,
+    "src": "resources/js/jquery.toast.min.js"
+  },
+  "resources/js/main.js": {
+    "file": "assets/main-2a4459e7.js",
+    "isEntry": true,
+    "src": "resources/js/main.js"
+  }
+}

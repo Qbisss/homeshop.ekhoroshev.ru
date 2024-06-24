@@ -1,0 +1,116 @@
+.header-first-info{
+    background-color: rgba(0, 0, 255, 0.61);
+    height: 45px;
+}
+
+.header-first-info a:hover{
+    color: rgb(192, 192, 192);
+}
+
+.header-adress{
+    position: absolute;
+    left: 10%;
+    top: 10px;
+    font-size: 15px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+.header-phone{
+    position: absolute;
+    right: 10%;
+    top: 1px;
+    font-size: 14px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+.header-main-info{
+    margin-top: 10px;
+}
+
+.header-name{
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    font-size: 31px;
+    letter-spacing: 6px;
+    word-spacing: 2px;
+    color: #000000;
+    font-weight: 700;
+    font-style: normal;
+    font-variant: small-caps;
+    text-transform: capitalize;
+    text-decoration: none;
+}
+
+.header-menu ul{
+    display: inline-block;
+    margin:15px auto;
+    padding: 0;
+    text-align: center;
+    height: 100%;
+    word-spacing: 35px;
+}
+
+.no-spacing{
+    word-spacing: normal;
+}
+
+.header-menu li{
+    font-weight: 700;
+    display: inline;
+}
+
+.header-menu a{
+    text-decoration: none;
+    color: #000000;
+}
+
+.header-menu a:hover{
+    color: rgba(0, 0, 255, 0.61);
+}
+
+
+
+.header-user-menu ul{
+    display: inline-block;
+    text-align: right;
+    float: right;
+    margin:15px auto;
+    padding: 0;
+    text-align: center;
+    height: 100%;
+    word-spacing: 15px;
+}
+
+.header-user-menu li{
+    font-weight: 700;
+    font-size: 20px;
+    display: inline;
+    position: relative;
+}
+
+.header-user-menu a:hover{
+    color: rgba(0, 0, 255, 0.61);
+}
+
+.header-user-menu a{
+    text-decoration: none;
+    color: #000000;
+}
+
+.badge{
+    font-size: 10px !important;
+}
+
+.carousel-item{
+    height: 280px;
+}
+
+.carousel-item img{
+    width: 100%;
+    height: 100%;
+    position:absolute;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
