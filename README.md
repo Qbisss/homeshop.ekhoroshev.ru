@@ -6,7 +6,7 @@
 ## Стек технологий
 
 - Larvel 9
-Использовались [диаграммы](https://github.com/LaravelDaily/laravel-charts)
+ ( Использовались [диаграммы](https://github.com/LaravelDaily/laravel-charts) )
 - PHP 8
 - Bootstrap 5
 - jQuery + Ajax
